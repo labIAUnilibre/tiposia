@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+    <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#142a52"/><stop offset="1" stop-color="#071225"/></linearGradient>
+    <pattern id="p" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="2" fill="#93baff" opacity=".25"/></pattern></defs>
+    <rect width="1200" height="520" rx="34" fill="url(#g)"/><rect width="1200" height="520" rx="34" fill="url(#p)"/>
+    <circle cx="910" cy="260" r="170" fill="#93baff" opacity=".10"/><circle cx="910" cy="260" r="125" fill="none" stroke="#93baff" stroke-width="3" opacity=".8"/>
+    <circle cx="910" cy="260" r="85" fill="none" stroke="#93baff" stroke-width="2" stroke-dasharray="8 12" opacity=".8"/>
+    <text x="910" y="300" font-size="110" font-family="Arial,sans-serif" font-weight="700" text-anchor="middle" fill="#93baff">Aa</text>
+    <path d="M760 130 L820 170 L780 220 M1020 150 L1080 205 L1035 245 M770 350 L830 320 L790 410 M1015 350 L1080 315" fill="none" stroke="#93baff" stroke-width="4" opacity=".7"/>
+    <circle cx="760" cy="130" r="8" fill="#93baff"/><circle cx="1080" cy="205" r="8" fill="#93baff"/><circle cx="790" cy="410" r="8" fill="#93baff"/>
+    <text x="70" y="205" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#ffffff">PROCESAMIENTO DEL LENGUAJE</text>
+    <text x="72" y="270" font-family="Arial,sans-serif" font-size="27" fill="#93baff">Texto · Voz · Conversación</text>
+    <text x="72" y="430" font-family="Arial,sans-serif" font-size="20" fill="#d8e6f5">PORTAL EDUCATIVO · INTELIGENCIA ARTIFICIAL</text>
+    </svg>
